@@ -9,3 +9,7 @@ Neural Networks models.
  Check the effect of different parameters on the result.
 - Use the Google Kolb environment for programming.
 - Use scikit-learn standard library.
+
+https://colab.research.google.com/drive/1Uk2uoG1QRwHdXgmaaWBJh3N4reY5UmIR
+
+
